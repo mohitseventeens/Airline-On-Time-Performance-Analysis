@@ -21,6 +21,8 @@ The dataset contains information on approximately 120 million domestic flights, 
 
 The data is split into separate files for each year from 1987 to 2008. You can download the dataset files from the following webpage: http://stat-computing.org/dataexpo/2009/the-data.html
 
+For now I am using data from year 2005 and 2006. The whole dataset is huge and later I'll try to use the whole dataset in the future.
+
 ## Research Questions
 
 This project aims to answer the following research questions:

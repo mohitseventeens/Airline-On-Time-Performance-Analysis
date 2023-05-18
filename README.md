@@ -38,15 +38,6 @@ This project aims to answer the following research questions:
 9. How well does weather predict plane delays?
 10. Can you detect cascading failures as delays in one airport create delays in others? Are there critical links in the system?
 
-## Contributing
-
-Contributions to this project are welcome! If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch with a descriptive name.
-3. Make your changes and commit them with clear and concise commit messages.
-4. Submit a pull request with a description of your changes.
-
 ## License
 
 This project is released under the MIT License. For more information, please refer to the `LICENSE` file in the repository.
